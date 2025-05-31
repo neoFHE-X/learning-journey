@@ -1,2 +1,2 @@
 # learning-journey
-Notes, tutorials and small projects on Web3 and Fully Homomorphic Encryption
+My Notes, tutorials, and experiments while learning Web3 and Fully Homomorphic Encryption.
