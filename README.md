@@ -1,4 +1,3 @@
-Welcome to my GitHub profile!
 ### Hi there 👋 I'm NeoFHE-X!
 🔐 Passionate about cryptography, privacy-preserving technologies, and secure computation  
 🧠 Exploring cutting-edge projects in Fully Homomorphic Encryption (FHE) like Zama, Fhenix, and Mind Network  
